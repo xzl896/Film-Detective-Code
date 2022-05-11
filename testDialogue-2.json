@@ -1,0 +1,86 @@
+{
+    "id": "2",
+    "utterances": [
+        {
+            "scene": "assets/locations/outdoor.jpg",
+            "speaker": {
+                "name": "Jane Doe",
+                "img": "assets/gal.gif"
+            },
+            "text": "Hi, <b>John</b>, how is your day going today?",
+            "audio": ""
+        },
+        {
+            "scene": "assets/locations/outdoor.jpg",
+            "speaker": {
+                "name": "John Doe",
+                "img": "assets/dude.gif"
+            },
+            "text": "Despite it still being quarantine, it's going pretty well. How about you, <b>Jane</b>?",
+            "audio": ""
+        },
+        {
+            "scene": "assets/locations/outdoor.jpg",
+            "speaker": {
+                "name": "Jane Doe",
+                "img": "assets/gal.gif"
+            },
+            "text": "Pretty well, <b>John</b>, thanks for asking. The weather is really nice today and it makes for a good walk.",
+            "audio": ""
+        },
+        {
+            "scene": "assets/locations/outdoor.jpg",
+            "speaker": {
+                "name": "John Doe",
+                "img": "assets/dude.gif"
+            },
+            "text": "My thoughts exactly! It's good to take sometime out for relaxing and experiencing nature during this time",
+            "audio": ""
+        },
+        {
+            "scene": "assets/locations/outdoor.jpg",
+            "speaker": {
+                "name": "Jane Doe",
+                "img": "assets/gal.gif"
+            },
+            "text": "I completely agree. It's very important to keep calm during a time like this.",
+            "audio": ""
+        },
+        {
+            "scene": "assets/locations/outdoor.jpg",
+            "speaker": {
+                "name": "Jane Doe",
+                "img": "assets/gal.gif"
+            },
+            "text": "So, <b>John</b>, what have you been doing to pass the time?",
+            "audio": ""
+        },
+        {
+            "scene": "assets/locations/outdoor.jpg",
+            "speaker": {
+                "name": "John Doe",
+                "img": "assets/dude.gif"
+            },
+            "text": "Well, for starters, walking!!!! Haha! But also, I have been reading more, doing some puzzles, and catching up on my favorite shows. How about you, <b>Jane</b>?",
+            "audio": ""
+        },
+        {
+            "scene": "assets/locations/outdoor.jpg",
+            "speaker": {
+                "name": "Jane Doe",
+                "img": "assets/gal.gif"
+            },
+            "text": "Well, definitely, reading has been a big help. I also got around to making some challenging recipes that I didn't have the time to tackle before this quarantine.",
+            "audio": ""
+        },
+        {
+            "scene": "assets/locations/outdoor.jpg",
+            "speaker": {
+                "name": "John Doe",
+                "img": "assets/dude.gif"
+            },
+            "text": "Well, that sounds delicious!!! I am glad to hear we both have been using our time wisely.",
+            "audio": ""
+        }
+    ]
+}

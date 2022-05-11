@@ -1,0 +1,84 @@
+[
+    {
+        "id": "6905918891",
+        "type": "MULTI-CHOICE",
+        "text": "What is the family doing at the table?",
+        "choices": [
+            "They were feeding the dog.",
+            "They were getting dressed up for Halloween.",
+            "They were having dinner at home.",
+            "They were having dinner at McDonald's."
+        ],
+        "correctAnswerIndex": 2,
+        "tags": [
+            "a",
+            "b"
+        ],
+        "pointValue": 1
+    },
+    {
+        "id": "4078979591",
+        "type": "MULTI-CHOICE",
+        "text": "What is the family talking about at the start of the clip?",
+        "choices": [
+            "They were talking about Halloween.",
+            "They were talking about seeing ghosts.",
+            "They were talking about school.",
+            "They were talking about the winter break."
+        ],
+        "correctAnswerIndex": 0,
+        "tags": [
+            "c",
+            "d"
+        ],
+        "pointValue": 1
+    },
+    {
+        "id": "2823294560",
+        "type": "MULTI-CHOICE",
+        "text": "What is the answer to this question?",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correctAnswerIndex": 1,
+        "tags": [
+            "e",
+            "f"
+        ],
+        "pointValue": 1
+    },
+    {
+        "id": "2969252907",
+        "type": "MULTI-CHOICE",
+        "text": "What about this question?",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correctAnswerIndex": 3,
+        "tags": [
+            "g",
+            "h"
+        ],
+        "pointValue": 1
+    },
+    {
+        "id": "6909071239",
+        "type": "MULTI-CHOICE",
+        "text": "And what about this one?",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correctAnswerIndex": 2,
+        "tags": [],
+        "pointValue": 1
+    }
+]

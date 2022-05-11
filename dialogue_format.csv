@@ -1,0 +1,10 @@
+﻿scene,speaker_name,speaker_img,text,audio
+assets/locations/outdoor.jpg,Jane Doe,assets/gal.gif,"Hi, <b>John</b>, how is your day going today?",
+assets/locations/outdoor.jpg,John Doe,assets/dude.gif,"Despite it still being quarantine, it's going pretty well. How about you, <b>Jane</b>?",
+assets/locations/outdoor.jpg,Jane Doe,assets/gal.gif,"Pretty well, <b>John</b>, thanks for asking. The weather is really nice today and it makes for a good walk.",
+assets/locations/outdoor.jpg,John Doe,assets/dude.gif,My thoughts exactly! It's good to take sometime out for relaxing and experiencing nature during this time,
+assets/locations/outdoor.jpg,Jane Doe,assets/gal.gif,I completely agree. It's very important to keep calm during a time like this.,
+assets/locations/outdoor.jpg,Jane Doe,assets/gal.gif,"So, <b>John</b>, what have you been doing to pass the time?",
+assets/locations/outdoor.jpg,John Doe,assets/dude.gif,"Well, for starters, walking!!!! Haha! But also, I have been reading more, doing some puzzles, and catching up on my favorite shows. How about you, <b>Jane</b>?",
+assets/locations/outdoor.jpg,Jane Doe,assets/gal.gif,"Well, definitely, reading has been a big help. I also got around to making some challenging recipes that I didn't have the time to tackle before this quarantine.",
+assets/locations/outdoor.jpg,John Doe,assets/dude.gif,"Well, that sounds delicious!!! I am glad to hear we both have been using our time wisely.",

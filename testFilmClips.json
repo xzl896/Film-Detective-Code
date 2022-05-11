@@ -1,0 +1,25 @@
+[
+    {
+        "id": "9221175193",
+        "clip-title": "E.T.",
+        "description": "A family dinner discussing a bizarre sighting... Can you help us figure out what's going on here?",
+        "thumbnail": "https://coloredvinylrecords.com/pictures/j/john-williams-e-t-the-extra-terrestrial-ost.png",
+        "img": "https://film-detective.s3.us-east-2.amazonaws.com/et.jpg",
+        "src": "https://film-detective.s3.us-east-2.amazonaws.com/et.mp4",
+        "tags": [
+            "1",
+            "2"
+        ],
+        "quiz": "3031450389"
+    },
+    {
+        "id": "1643236774",
+        "clip-title": "TEST",
+        "description": "This is a test.",
+        "thumbnail": "https://coloredvinylrecords.com/pictures/j/john-williams-e-t-the-extra-terrestrial-ost.png",
+        "img": "https://film-detective.s3.us-east-2.amazonaws.com/et.jpg",
+        "src": "https://film-detective.s3.us-east-2.amazonaws.com/et.mp4",
+        "tags": [],
+        "quiz": "4759282312"
+    }
+]
